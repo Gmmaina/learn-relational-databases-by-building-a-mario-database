@@ -102,3 +102,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 psql --username=freecodecamp --dbname=postgres
 clear
 psql --username=freecodecamp --dbname=postgres
+clear
+psql --username=freecodecamp --dbname=mario_database
